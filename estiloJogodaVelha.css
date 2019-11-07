@@ -1,0 +1,30 @@
+#mostrante{
+    margin: auto;
+    margin-top: 40px;
+    width: 252px;
+    height: 80px;
+}
+
+.exibidor{
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.vezJogador{
+    border: 0;
+    height: 50;
+}
+
+.espaco{
+    width: 80px;
+    height: 80px;
+    border: 2px solid #000;
+    float: left;
+}
+
+.tabuleiro{
+    width: 252px;
+    height: 252px;
+    margin: auto;
+}
